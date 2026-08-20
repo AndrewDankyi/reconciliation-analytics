@@ -1,0 +1,32 @@
+txn_id,txn_date,description,amount,item_type,side,age_days,aging_bucket
+T10075,2026-07-01,Customer payment — Union Freight Co,2226.75,Deposit in transit,GL only,31,20+ days
+T10319,2026-07-02,Customer payment — Union Freight Co,8167.83,Deposit in transit,GL only,30,20+ days
+T10104,2026-07-04,Payment — Beacon Legal Group,-8608.45,Outstanding check,GL only,28,20+ days
+T10257,2026-07-06,Payment — Pinnacle Office Solutions,-5558.27,Outstanding check,GL only,26,20+ days
+T10161,2026-07-06,Customer payment — Whitfield Manufacturing,700.85,Deposit in transit,GL only,26,20+ days
+T10381-DUP,2026-07-06,Payment — NorthStar Bank Fees,-2813.12,Duplicate GL entry (error),GL only,26,20+ days
+T10404,2026-07-07,Customer payment — Whitfield Manufacturing,16037.87,Deposit in transit,GL only,25,20+ days
+T10251,2026-07-08,Payment — Vertex IT Services,-1230.83,Outstanding check,GL only,24,20+ days
+T10322,2026-07-10,Payment — NorthStar Bank Fees,-5236.52,Outstanding check,GL only,22,20+ days
+T10312,2026-07-10,Customer payment — Granite Construction,17298.56,Deposit in transit,GL only,22,20+ days
+B9004,2026-07-10,NSF returned check — Coastal Foods Inc,-1250.0,NSF item,Bank only,22,20+ days
+T10038,2026-07-11,Payment — Beacon Legal Group,-4482.0,Outstanding check,GL only,21,20+ days
+T10112,2026-07-12,Payment — Cascade Equipment Rental,-7013.95,Outstanding check,GL only,20,11-20 days
+T10120,2026-07-14,Payment — NorthStar Bank Fees,-8986.69,Outstanding check,GL only,18,11-20 days
+T10185,2026-07-15,Customer payment — Brightline Media,1343.35,Deposit in transit,GL only,17,11-20 days
+B9001,2026-07-15,Monthly service fee,-32.0,Bank fee,Bank only,17,11-20 days
+B9002,2026-07-15,Wire transfer fee,-25.0,Bank fee,Bank only,17,11-20 days
+T10051,2026-07-16,Payment — Summit Payroll Services,-4684.25,Outstanding check,GL only,16,11-20 days
+T10213,2026-07-19,Payment — NorthStar Bank Fees,-5489.51,Outstanding check,GL only,13,11-20 days
+T10333,2026-07-19,Payment — Pinnacle Office Solutions,-2554.57,Outstanding check,GL only,13,11-20 days
+T10037,2026-07-20,Payment — Vertex IT Services,-7727.6,Outstanding check,GL only,12,11-20 days
+T10076,2026-07-20,Customer payment — Coastal Foods Inc,14576.53,Deposit in transit,GL only,12,11-20 days
+B9005,2026-07-22,NSF fee,-30.0,Bank fee,Bank only,10,6-10 days
+T10307,2026-07-23,Payment — Vertex IT Services,-5736.93,Outstanding check,GL only,9,6-10 days
+T10196,2026-07-25,Payment — Horizon Marketing,-4228.08,Outstanding check,GL only,7,6-10 days
+T10355,2026-07-26,Payment — Beacon Legal Group,-2712.44,Outstanding check,GL only,6,6-10 days
+T10227,2026-07-29,Payment — Pinnacle Office Solutions,-8616.93,Outstanding check,GL only,3,0-5 days
+T10012,2026-07-29,Payment — Vertex IT Services,-290.24,Outstanding check,GL only,3,0-5 days
+B9003,2026-07-29,Interest earned,14.63,Interest income,Bank only,3,0-5 days
+T10153,2026-07-30,Payment — Acme Supply Co,-4970.4,Outstanding check,GL only,2,0-5 days
+T10033,2026-07-31,Payment — Cascade Equipment Rental,-94.13,Outstanding check,GL only,1,0-5 days
